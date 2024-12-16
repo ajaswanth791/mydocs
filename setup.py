@@ -12,7 +12,7 @@ setup(
     author_email="ajaswanth791@gmail.com",
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
-    url="",
+    url="https://github.com/ajaswanth791/mydocs.git",
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
