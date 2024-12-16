@@ -2,14 +2,13 @@ Metadata-Version: 2.1
 Name: mydocs
 Version: 0.0.1
 Summary: My first Python package
-Author: Jason Dsouza
-Author-email: <youremail@email.com>
-Keywords: python,first package
-Classifier: Development Status :: 3 - Alpha
-Classifier: Intended Audience :: Education
-Classifier: Programming Language :: Python :: 2
+Home-page: https://github.com/ajaswanth791/mydocs.git
+Author: Jaswanth Anupoju
+Author-email: ajaswanth791@gmail.com
 Classifier: Programming Language :: Python :: 3
-Classifier: Operating System :: MacOS :: MacOS X
-Classifier: Operating System :: Microsoft :: Windows
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Requires-Dist: streamlit>=1.40.0
 
-My first Python package with a slightly longer description
+Used for to create the documentation

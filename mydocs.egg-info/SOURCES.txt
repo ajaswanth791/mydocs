@@ -1,3 +1,4 @@
+README.md
 setup.py
 mydocs/__init__.py
 mydocs/functions_value.py
@@ -8,4 +9,5 @@ mydocs.egg-info/PKG-INFO
 mydocs.egg-info/SOURCES.txt
 mydocs.egg-info/dependency_links.txt
 mydocs.egg-info/entry_points.txt
+mydocs.egg-info/requires.txt
 mydocs.egg-info/top_level.txt

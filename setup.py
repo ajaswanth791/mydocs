@@ -6,7 +6,7 @@ LONG_DESCRIPTION = "Used for to create the documentation"
 
 
 setup(
-    name="mydocs",
+    name="mydocs-streamlit",
     version=VERSION,
     author="Jaswanth Anupoju",
     author_email="ajaswanth791@gmail.com",
